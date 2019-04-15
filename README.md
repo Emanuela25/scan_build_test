@@ -9,6 +9,6 @@
 - How to run with clang static analyzer
  - compile source code with clang static analyzer: scan-build make
  - view report if bugs detected: scan-view [report name]
-```
+
 
 
