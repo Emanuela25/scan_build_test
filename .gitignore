@@ -1,0 +1,14 @@
+# General
+.DS_Store
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+
+# Executables
+*.out
+
+# Vscode
+.vscode/
