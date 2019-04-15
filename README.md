@@ -7,8 +7,8 @@
   - Line 25 in Makefile "CC = g++" is there because clang static analyzer works by substituting CC
   - If run without clang static analyzer, line 25 need to be removed
 - How to run with clang static analyzer
- - compile source code with clang static analyzer: scan-build make
- - view report if bugs detected: scan-view [report name]
+  - compile source code with clang static analyzer: scan-build make
+  - view report if bugs detected: scan-view [report name]
 
 
 
